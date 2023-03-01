@@ -29,6 +29,7 @@ function App() {
 
   useEffect(() => {
     generatePassword()
+    handleCopied()
   },[])
 
   const handleChangeUppercase = () => {
