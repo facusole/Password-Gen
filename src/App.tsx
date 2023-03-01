@@ -124,7 +124,7 @@ function App() {
   }
 
   return (
-    <main className="h-screen tracking-tight box-border mx-6 my-6 md:mx-40 md:my-24 xl:mx-[40rem] xl:my-24">
+    <main className="h-screen tracking-tight box-border mx-6 my-6 md:mx-40 md:my-24 xl:mx-[28rem] xl:my-24">
 
       <section className="my-8">
         <h1 className="text-black font-medium text-2xl md:text-3xl lg:text-4xl">Random password generator</h1>
